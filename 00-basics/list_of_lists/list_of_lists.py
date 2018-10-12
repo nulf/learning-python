@@ -5,3 +5,5 @@
 # Move item up on list
 
 # Move item down on list
+
+# Clear list
