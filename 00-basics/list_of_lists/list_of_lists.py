@@ -7,3 +7,7 @@
 # Move item down on list
 
 # Clear list
+
+# Optional: save list
+
+# Optional: load list
