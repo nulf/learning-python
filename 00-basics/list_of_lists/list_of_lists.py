@@ -1,3 +1,6 @@
+# Take input
+input = input('Command |> ')
+
 # Add to list
 
 # Remove from list
